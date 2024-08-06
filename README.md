@@ -15,7 +15,7 @@
 
 Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
-<img align="right" alt="img" src="https://github.com/SindenDev/SindenDev/main/blob/git-header.svg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/SindenDev/SindenDev/blob/main/git-header.svg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 

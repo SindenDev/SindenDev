@@ -27,29 +27,26 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Improving my english with some education apart from job
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SindenDev&show_icons=true&hide_border=true" />
-<br />
 <img align="center" src="https://skillicons.dev/icons?i=cpp,python,tensorflow,kafka,pytorch,react,mongodb&theme=light" />
 
 <code><img width="10%" src="https://avatars.githubusercontent.com/u/34072764?s=200&v=4"></code>
 <code><img width="10%" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4"></code>
 <code><img width="8%" src="https://avatars.githubusercontent.com/u/56449156?s=200&v=4"></code>
-<br />
-<code><img width="10%" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4"></code>
-<code><img width="10%" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4"></code>
 <code><img width="10%" src="https://avatars.githubusercontent.com/u/319479?s=200&v=4"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></code>
+<code><img width="10%" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4"></code>
+<code><img width="10%" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
 </p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=SindenDev&show_icons=true&hide_border=true" />
+ 
